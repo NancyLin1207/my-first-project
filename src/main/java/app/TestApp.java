@@ -2,6 +2,6 @@ package app;
 
 public class TestApp {
 	public static void main(String[] args) {
-		System.out.println("¤@¤G¤T");
+		System.out.println("ä¸€äºŒä¸‰");
 	}
 }
